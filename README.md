@@ -39,9 +39,8 @@ This is still a work in progress so use it at your own risk. I've added some bas
       local='en-US'
       mode='portrait'
       startLabel='Beginning'
-      endLabel='Ending'
+      endLabel='Ending'/>
 </MuiThemeProvider>
-/>
 ```
 
 ### Options:
